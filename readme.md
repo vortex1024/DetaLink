@@ -6,5 +6,5 @@ Also, if the link is an mp4 or aac audio, it plays it without opening a player. 
 ## how to build
 Just zip the contents of the addon folder and change the extension to .nvda-addon
 
-##download
+## download
 https://github.com/vortex1024/DetaLink/releases/download/1.0-beta/detalink.nvda-addon
