@@ -49,7 +49,7 @@ class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 				link=selection
 
 			else:
-				ui.message("mot a link")
+				ui.message("Not a link.")
 				
 				return
 		if(re.match(".*.(aac|mp4).*", link)):
